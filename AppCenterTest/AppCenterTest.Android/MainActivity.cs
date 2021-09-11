@@ -5,6 +5,8 @@ using Android.Content.PM;
 using Android.Runtime;
 using Android.OS;
 
+//add test
+
 namespace AppCenterTest.Droid
 {
     [Activity(Label = "AppCenterTest", Icon = "@mipmap/icon", Theme = "@style/MainTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation | ConfigChanges.UiMode | ConfigChanges.ScreenLayout | ConfigChanges.SmallestScreenSize )]
